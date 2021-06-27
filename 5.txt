@@ -1,2 +1,6 @@
 Made new file to learn git stash
+<<<<<<< Updated upstream
 Adding much more content to 5.txt file
+=======
+Adding more content to git stash file
+>>>>>>> Stashed changes
