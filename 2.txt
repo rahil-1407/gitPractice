@@ -1,1 +1,1 @@
-2.txt is formed
+git reset - https://www.freecodecamp.org/news/save-the-day-with-git-reset/
