@@ -1,4 +1,0 @@
-Made new file to learn git stash
-Adding much more content to 5.txt file
-Yes I can
-do it
