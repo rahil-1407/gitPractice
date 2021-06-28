@@ -3,3 +3,5 @@ git rm - https://careerkarma.com/blog/git-rm/
 git amend - https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 git diff - https://medium.com/mindorks/what-is-git-diff-git-branch-4bd9890d68b0
 git stash - https://opensource.com/article/21/4/git-stash
+git revert - https://stackoverflow.com/questions/19032296/how-to-use-git-revert
+
